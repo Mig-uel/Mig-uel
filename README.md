@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<h3>Studying</h3>
+<h3>Learning</h3>
 
 <p align="">
   <a href="https://skillicons.dev">
