@@ -16,3 +16,16 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mig-uel&theme=radical&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mig-uel&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mig-uel&show_icons=true&theme=transparent" />
+</picture>
