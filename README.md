@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p align="">
   <a href="https://skillicons.dev">
     <img
-    src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,js,nodejs,ts,react,redux,express,next,postgres,mongo,prisma,git&theme=dark"
+    src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,js,nodejs,ts,angular,react,redux,express,next,postgres,mongo,prisma,git&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   </a>
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <p align="">
   <a href="https://skillicons.dev">
     <img
-    src="https://skillicons.dev/icons?i=angular,htmx,aws,rust,threejs&theme=dark"
+    src="https://skillicons.dev/icons?i=htmx,aws,rust,threejs&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   </a>
